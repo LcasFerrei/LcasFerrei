@@ -21,3 +21,5 @@
  </div><br/>
 
 Estudante dedicado de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza, com amplo domínio das principais linguagens de programação, incluindo Java, Python e JavaScript. Autodidata na maior parte dos conhecimentos avançados, destaco-me por minha paixão por áreas como machine learning, data science, desenvolvimento em nuvem com foco na AWS e Interação Humano-Computador (IHC).
+
+Agradeço por visitar meu perfil.
