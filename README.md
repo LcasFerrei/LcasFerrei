@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcasFerrei&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,3 +24,7 @@
 Estudante dedicado de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza, com amplo domínio das principais linguagens de programação, incluindo Java, Python e JavaScript. Autodidata na maior parte dos conhecimentos avançados, destaco-me por minha paixão por áreas como machine learning, data science, desenvolvimento em nuvem com foco na AWS e Interação Humano-Computador (IHC).
 
 Agradeço por visitar meu perfil.
+
+Dedicated student of Systems Analysis and Development at the University of Fortaleza, with extensive command of the main programming languages, including Java, Python and JavaScript. Self-taught in most advanced knowledge, I stand out for my passion for areas such as machine learning, data science, cloud development with a focus on AWS and Human-Computer Interaction (IHC).
+
+Thank you for visiting my profile.
