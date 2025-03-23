@@ -20,6 +20,8 @@
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
  <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+ <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+ <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
  </div><br/>
 
 Estudante dedicado de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza, com amplo domínio das principais linguagens de programação, incluindo Java, Python e JavaScript. Autodidata na maior parte dos conhecimentos avançados, destaco-me por minha paixão por áreas como machine learning, data science, desenvolvimento em nuvem com foco na AWS e Interação Humano-Computador (IHC).
