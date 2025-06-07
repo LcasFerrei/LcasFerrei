@@ -24,7 +24,6 @@
  <img align="center" alt="QA" src="https://img.shields.io/badge/QA%20Engineer-9cf?style=for-the-badge&logo=testcafe&logoColor=black" />
  <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
  <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
- <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
  <img align="center" alt="Mobile" src="https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
